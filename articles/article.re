@@ -9,4 +9,4 @@
  
 //listnum[main][コード名.js]{
 console.log('コード名');
-}//
+//}
